@@ -1,4 +1,4 @@
-Timelapse
+Time-lapse Movie Scripts
 =========
 
 Jorma's Timelapse Scripts: These scripts allow you to automate the process of stitching together still frames to make daily timelapse movies using Apple's Quicktime Pro. They use any web cam image that is on the Internet and can be accessed directly (must be able to view/download the image directly). For best results, web cams that update every minute provide better/smoother movies than those that update less frequently. The scripts are configured to 1) download the images every minute, 2) stitch them into a movie once a day (or whenever desired) 3) save the original image files and movie into an archives folder. You can see an example of the scripts in action on my site http://halfdome.net
