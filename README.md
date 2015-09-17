@@ -80,7 +80,9 @@ Description of Script Files:
 
 Good Luck! If you have questions/comments, please drop me an email and I will try to get back to you.
 
-- Jorma / scripts@jorma.com
+- Jorma
+
+http://jorma.com/contact
 
 
 
